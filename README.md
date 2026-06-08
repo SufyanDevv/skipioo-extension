@@ -35,8 +35,14 @@ Skipioo provides a cleaner way to watch YouTube videos.
 
 ## 📸 Preview
 
-<!-- Add a screenshot or GIF here -->
-> _Screenshot coming soon_
+### YouTube Page
+
+![Skipioo Button](screenshots/youtube-button.jpg)
+
+### Skipioo Player
+
+![Skipioo Player](screenshots/skipioo-player.jpg)
+
 
 ---
 
