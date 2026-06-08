@@ -1,7 +1,9 @@
-# Skipioo Extension for Chrome
+# Skipioo Extension – Watch YouTube Videos on Skipioo
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Chrome Extension](https://img.shields.io/badge/platform-Chrome-yellow.svg)](https://www.google.com/chrome/)
+[![Chrome](https://img.shields.io/badge/Chrome-Supported-brightgreen)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-Supported-orange)](https://www.mozilla.org/firefox/)
+[![Edge](https://img.shields.io/badge/Edge-Supported-blue)](https://www.microsoft.com/edge/)
 [![Made for Skipioo](https://img.shields.io/badge/made%20for-skipioo.com-red.svg)](https://skipioo.com)
 
 > Watch any YouTube video without ads — instantly, with one click.
@@ -16,6 +18,18 @@ The **Skipioo Extension** adds a button directly on YouTube video pages. One cli
 - One click redirects you to the same video on [skipioo.com](https://skipioo.com) — completely ad-free
 - Lightweight: no tracking, no background processes, no permissions abuse
 - Works on all YouTube video URLs (`youtube.com/watch?v=...`)
+
+---
+
+## Why Use Skipioo?
+
+Skipioo provides a cleaner way to watch YouTube videos.
+
+- Open YouTube videos in a dedicated player
+- Fast one-click access
+- Minimal interface
+- No account required
+- Open source extension
 
 ---
 
